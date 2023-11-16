@@ -11,5 +11,8 @@ end if
 if y="no" then
 x=msgbox("THEN FOLLOW MY RIZZ TIPS", 32, "NOW")
 x=msgbox("tip 1", 32, "feed the dogs")
+x=msgbox("tip2", 32, "water the dogs")
+x=msgbox("tip3", 32, "plant the dogs")
+x=msgbox("tip4", 32, "pick the dogs")
 end if
 
