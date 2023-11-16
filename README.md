@@ -1,3 +1,3 @@
 # vb-files
 
-click buttons or type responses!!! some are prefilled in and sometimes you might get an independant choice!
+you can type yes no or an independant responce, sometimes it is prefilled in for you, each will grant a different responce.
