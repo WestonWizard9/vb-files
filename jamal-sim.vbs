@@ -22,7 +22,7 @@ else
 if z= no then 
 x=msgbox("IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS IM IN YOUR WALLS ",48,":)")
 else
-x=("uh...i cnt rede whart tatht sai",32, "huh")
+x=msgbox("uh...i cnt rede whart tatht sai",32, "huh")
 end if
 end if
 
