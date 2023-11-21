@@ -7,7 +7,10 @@ end if
 y=inputbox(" r u a rizzler gyat sigma smurf cat?", 32, "yessir")
 if y="yessir" then
 x=msgbox("ok then u should get a life and get off ur pc and be a pro rizzler", 32, "ok")
+else
+x=msgbox("AWNSER THE QUESTION WITH YESSIR OR NO")
 end if
+
 if y="no" then
 x=msgbox("THEN FOLLOW MY RIZZ TIPS", 32, "NOW")
 x=msgbox("tip 1", 32, "feed the dogs")
@@ -27,3 +30,4 @@ end if
 end if
 
 end if
+
